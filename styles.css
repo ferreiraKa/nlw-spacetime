@@ -36,10 +36,10 @@ nav {
 }
 .memory {
   display: flex;
-  flex-direction: column;
+  flex-direction: column;git remote add origin https://github.com/ferreiraKa/nlw-spacetime.git
   gap: 16px;
-  text-decoration: none;
-  margin-bottom: 64px;
+  text-decoration:none;
+  margin-bottom:64px;
 }
 
 .memory small {
